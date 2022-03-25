@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trlemon
 - 👀 I’m interested in data science, bioinformatics, and engineering.
-- 🌱 I’m currently learning plotly Dash
+- 🌱 I’m currently learning Dash in Python
 - 💞️ I’m looking to collaborate on nothing at the moment!
 - 📫 How to reach me: thomas.r.lemon@gmail.com
 
