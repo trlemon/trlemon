@@ -1,5 +1,5 @@
 # Hello
-- 👋 Hi, I’m @trlemon
+- 👋 Hi, I’m @trlemon, a Manufacturing Engineer and dashboard developer
 - 👀 I’m interested in data science, bioinformatics, and engineering.
 - 🌱 I’m currently developing Plotly Dash applications in Python
 - 💞️ I’m looking to collaborate on nothing at the moment!
