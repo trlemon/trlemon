@@ -1,8 +1,8 @@
 # Hello
-- 👋 Hi, I’m @trlemon, a Manufacturing Engineer and dashboard developer
-- 👀 I’m interested in data science, bioinformatics, and engineering.
-- 🌱 I’m currently developing Plotly Dash applications in Python
-- 💞️ I’m looking to collaborate on nothing at the moment!
+- 👋 Hi, I’m @trlemon, a Manufacturing Engineer and dashboard developer.
+- 👀 I’m interested in data science, bioinformatics, and web development.
+- 🌱 I’m currently developing a Flask website for learning Thai.
+- 💞️ I’m looking to collaborate on my website. Contact me via email for details!
 - 📫 How to reach me: thomas.r.lemon@gmail.com
 
 <!---
