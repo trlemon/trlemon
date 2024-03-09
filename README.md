@@ -1,5 +1,5 @@
 # Hello
-- 👋 Hi, I’m @trlemon, a Software Developer and dashboard developer.
+- 👋 Hi, I’m @trlemon, a Software Developer.
 - 👀 I’m interested in data science, bioinformatics, and web development.
 - 🌱 I’m currently developing a Flask website for learning Thai.
 - 💞️ I’m looking to collaborate on my website. Contact me via email for details!
