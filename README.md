@@ -1,8 +1,8 @@
 # Hello
 - 👋 Hi, I’m @trlemon, a Software Developer.
-- 👀 I’m interested in data science, bioinformatics, and web development.
-- 🌱 I’m currently developing a Flask website for learning Thai.
-- 💞️ I’m looking to collaborate on my website. Contact me via email for details!
+- 👀 I’m interested in web development and making data work for people.
+- 🌱 I’m currently developing a dashboard to track plant-based journal articles using AI to summarize recent article trends.
+- 💞️ I’m looking to collaborate on my project. Contact me via email for details!
 - 📫 How to reach me: thomas.r.lemon@gmail.com
 
 <!---
