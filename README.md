@@ -1,5 +1,5 @@
 # Hello
-- 👋 Hi, I’m @trlemon, a Software Developer.
+- 👋 Hi, I’m @trlemon, a Software Engineer.
 - 👀 I’m interested in software for data capture and analysis.
 - 🌱 I’m currently developing a dashboard to track plant-based journal articles using AI to summarize recent article trends.
 - 💞️ I’m looking to collaborate on my project. Contact me via email for details!
